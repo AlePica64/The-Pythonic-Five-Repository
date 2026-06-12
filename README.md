@@ -67,5 +67,14 @@ L'approccio adottato per la realizzazione del progetto è il Behavioral Cloning,
 
 
 
+## 📂 Struttura del Repository
 
-Questo setup ci consente di bilanciare la naturalezza delle traiettorie impostate dall'uomo con l'impeccabile precisione matematica della macchina in fase di frenata e controllo della trazione.
+```text
+The-Pythonic-Five-Repository/
+├── data/
+├── dataset_laps/
+├── .gitignore
+├── manual_control_ds4.py
+├── myAgent.py
+├── prova_autonew.py
+└── README.md
